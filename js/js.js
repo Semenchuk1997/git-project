@@ -29,3 +29,5 @@ Voter.prototype._voteDecrease = function() {
 Voter.prototype.setVote = function(vote) {
   this._voteElem.innerHTML = +vote;
 };
+
+4654654654
