@@ -30,4 +30,4 @@ Voter.prototype.setVote = function(vote) {
   this._voteElem.innerHTML = +vote;
 };
 
-change another
+branch master
