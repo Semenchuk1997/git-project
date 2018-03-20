@@ -36,3 +36,6 @@ branch new_f
 
 branch master
 >>>>>>> master
+
+
+console.log('hello gitHub')
